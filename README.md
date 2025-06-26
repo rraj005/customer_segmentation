@@ -71,4 +71,4 @@ These customer segments can help marketing teams design more targeted campaigns.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-kmeans.git
+   git clone https://github.com/rraj005/customer-segmentation.git
